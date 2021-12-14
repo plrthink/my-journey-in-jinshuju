@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "my-journey-in-jinshju",
+  "name": "my-journey-in-jinshuju",
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",
